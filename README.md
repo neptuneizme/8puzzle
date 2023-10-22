@@ -13,3 +13,4 @@ git clone https://github.com/neptuneizme/8puzzle.git
 cd 8puzzle
 python run.py
 ```
+<img src="https://github.com/neptuneizme/8puzzle/blob/main/src/Annotation%202023-10-22%20180445.png" alt="Alt text" title="Optional title">
